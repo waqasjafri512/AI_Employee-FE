@@ -84,10 +84,6 @@ frontend/
 
 The app uses JWT-based authentication. After login, the token is stored in `localStorage` and automatically included in all API requests.
 
-**Default Test Account:**
-- Email: `kashi54214@gmail.com`
-- Password: (Set during signup)
-
 ---
 
 ## 🧪 Testing
